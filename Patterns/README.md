@@ -1,4 +1,4 @@
-![Design Patterns For Developers]
+# Design Patterns For Developers
 
 ***
 <p align="center">
@@ -1866,12 +1866,3 @@ iosBuilder.build()
 
 And that about wraps it up. I will continue to improve this, so you might want to watch/star this repository to revisit. Also, I have plans on writing the same about the architectural patterns, stay tuned for it.
 
-## 👬 Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-
-## License
-MIT © [Soham Kamani](http://sohamkamani.com)
-Based on ["Design patterns for humans"](https://github.com/kamranahmedse/design-patterns-for-humans) Copyright 2017 Kamran Ahmed
