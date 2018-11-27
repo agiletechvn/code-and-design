@@ -8,11 +8,11 @@
   3. [Design Patterns](./Patterns/README.md)
   4. [Solution Design](./Design/README.md)
   5. Technologies  
-    1. [React Native](./Technologies/ReactNative/README.md)
-    2. AI And BigData  
+    - [React Native](./Technologies/ReactNative/README.md)  
+    - AI And BigData  
       - [AI](./Technologies/AI/README.md)  
       - [BigData](./Technologies/BigData/README.md)  
-    3. [Blockchain](./Technologies/Blockchain/README.md)  
+    - [Blockchain](./Technologies/Blockchain/README.md)  
 
 
 ## 👬 Contributors
