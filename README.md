@@ -3,11 +3,11 @@
 *Implemented in Javascript ES6, facilitating new techonogies like Babel, React, Flowtype*
 
 ## 📗 Table of Contents
-  1. [Clean Code](./Code/README.md)
-  2. [Data Structures And Algorithms](./Algorithms/README.md)
-  3. [Design Patterns](./Patterns/README.md)
-  4. [Solution Design](./Design/README.md)
-  5. **Technologies**  
+  - [Clean Code](./Code/README.md)
+  - [Data Structures And Algorithms](./Algorithms/README.md)
+  - [Design Patterns](./Patterns/README.md)
+  - [Solution Design](./Design/README.md)
+  - **Technologies**  
     - [React Native](./Technologies/ReactNative/README.md)  
     - **AI And BigData**  
       - [AI](./Technologies/AI/README.md)  
