@@ -121,6 +121,9 @@ a set of rules that precisely define a sequence of operations.
   * `A` [Travelling Salesman Problem](src/algorithms/graph/travelling-salesman) - shortest possible route that visits each city and returns to the origin city
 * **Cryptography**
   * `B` [Polynomial Hash](src/algorithms/cryptography/polynomial-hash) - rolling hash function based on polynomial
+  * `B` [Cryptographic Hash](src/algorithms/cryptography/cryptographic-hash) - MD5, SHA256
+  * `A` [Symmetric Encryption](src/algorithms/cryptography/symetric-encryption) - Tripple DES, AES
+  * `A` [Asymmetric Encryption](src/algorithms/cryptography/asymetric-encryption) - RSA, ECDSA
 * **Uncategorized**
   * `B` [Tower of Hanoi](src/algorithms/uncategorized/hanoi-tower)
   * `B` [Square Matrix Rotation](src/algorithms/uncategorized/square-matrix-rotation) - in-place algorithm
