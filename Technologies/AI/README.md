@@ -1426,6 +1426,7 @@ be
 * [Bender](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
+* [LearnOpenCV](https://github.com/spmallick/learnopencv.git) - Learn OpenCV : C++ and Python Examples.  
 * [swix](https://github.com/stsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
