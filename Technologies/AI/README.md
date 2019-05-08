@@ -1,5 +1,8 @@
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Machine Learning can be read here
+[Machine-Learning](https://github.com/agiletechvn/machine-learning)
+
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti).
